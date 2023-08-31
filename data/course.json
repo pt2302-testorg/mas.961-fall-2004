@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "legacy_uid": "0aee512f-434c-e8f7-7065-fe696e282b90",
+  "instructors": {
+    "content": [
+      "96288a93-00ec-dc38-7738-e2def96b0e9d",
+      "3691b741-e24d-f40f-e60e-3abdb03c5fb5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a5190993-5fdf-ae2c-5745-851fcb9f1ef1",
+    "website": "mas-961-seminar-on-deep-engagement-fall-2004"
+  },
+  "course_title": "Seminar on Deep Engagement",
+  "course_description": "Innovation in expression, as realized in media, tangible objects, performance and more, \u00a0generates new questions and new potentials for human engagement. When and how does expression engage us deeply? Many personal stories confirm the hypothesis that once we experience deep engagement, it is a state we long for, remember, and want to repeat. This class will explore\u00a0what\u00a0underlying\u00a0principles and innovative methods can ensure the development of higher-quality \"deep engagement\"\u00a0products (artifacts, experiences, environments, performances, etc.) that appeal to a broad audience and that have lasting value over the long term.\n",
+  "department_numbers": [
+    "MAS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "MAS.961",
+  "course_image_thumbnail": {
+    "content": "e2aeb1c2-da50-cda3-fd14-68457f2899e2",
+    "website": "mas-961-seminar-on-deep-engagement-fall-2004"
+  },
+  "learning_resource_types": [
+    "Projects with Examples",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "c654e00b-6254-4ec7-a0b5-174cce52e049",
+  "site_short_id": "mas.961-fall-2004",
+  "title": "Course Metadata"
+}
